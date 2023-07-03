@@ -1,1 +1,1 @@
-# public_test_repo
+# LIP Workshop
